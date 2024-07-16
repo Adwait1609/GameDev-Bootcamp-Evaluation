@@ -19,4 +19,3 @@ John Lemon’s Haunted Jaunt is a thrilling game where you navigate through a ha
 
 - Unity 2021.1 or later
 - Basic understanding of C# and game development concepts
-- 
